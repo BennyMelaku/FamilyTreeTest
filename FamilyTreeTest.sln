@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyTreeTest.API", "FamilyTreeTest.API\FamilyTreeTest.API.csproj", "{FA6E261B-3DFF-40D6-9910-1B4FCE62E798}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyTreeTest.ConsoleApp", "FamilyTreeTest.ConsoleApp\FamilyTreeTest.ConsoleApp.csproj", "{FF755BBD-F5C2-43B4-A62C-66AF68A0EAFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA6E261B-3DFF-40D6-9910-1B4FCE62E798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA6E261B-3DFF-40D6-9910-1B4FCE62E798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA6E261B-3DFF-40D6-9910-1B4FCE62E798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA6E261B-3DFF-40D6-9910-1B4FCE62E798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF755BBD-F5C2-43B4-A62C-66AF68A0EAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF755BBD-F5C2-43B4-A62C-66AF68A0EAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF755BBD-F5C2-43B4-A62C-66AF68A0EAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF755BBD-F5C2-43B4-A62C-66AF68A0EAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0D5352F-9395-460D-B7AE-718F9D79AB19}
+	EndGlobalSection
+EndGlobal
